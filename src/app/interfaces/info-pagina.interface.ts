@@ -7,7 +7,7 @@ export interface InforPagina {
     nombre_corto?: string;
     pagina_autor?: string;
     facebook?: string;
-    tweeter?: string;
+    twitter?: string;
     instagram?: string;
     tumblr?: string;
     equipo_trabajo?: any[];
